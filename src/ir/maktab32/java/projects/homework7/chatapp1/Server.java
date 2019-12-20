@@ -1,6 +1,5 @@
 package ir.maktab32.java.projects.homework7.chatapp1;
 
-
 import java.io.DataInputStream;
 import java.io.IOException;
 import java.io.PrintWriter;
